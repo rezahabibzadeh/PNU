@@ -1,7 +1,7 @@
 # PNU_3991_AR
 # رضا حبیب زاده
 - [GitHub](https://github.com/rezahabibzadeh)
-- [PNU_3991_AR](https://github.com/rezahabibzadeh/PNU)
+- [PNU_1399_AR](https://github.com/rezahabibzadeh/PNU)
 - [Resume](https://rezahabibzadeh.github.io/rezume/) 
 - [SOP](https://rezahabibzadeh.github.io/sop/)
 - [JS-Certificate](https://github.com/rezahabibzadeh/js.git)
