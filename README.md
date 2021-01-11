@@ -84,4 +84,15 @@
                 <th style="background-color: darkcyan;">سرکار</th>
               <th>پنج شنبه</th>
             </tr>
+             <tr>
+                <th></th>
+                <th style="background-color: dimgrey">وب گردی</th>
+                <th style="background-color:red"></th>
+                <th style="background-color: darkorange">امور منزل</th>
+                <th style="background-color: darkgray">امور منزل</th>
+                <th style="background-color: darkcyan"></th>
+                <th style="background-color: darkcyan">تفریح</th>
+                <th style="background-color: darkcyan">تفریح</th>
+              <th>جمعه</th>
+            </tr>
           </table> 
