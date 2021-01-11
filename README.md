@@ -1,10 +1,10 @@
 # PNU_3991_AR
-# آناهیتا طاهری
-- [GitHub](https://github.com/Taheri6760)
-- [PNU_3991_AR](https://github.com/Taheri6760/PNU_3991_AR)
-- [Resume](https://taheri6760.github.io/Resume/) 
-- [SOP](https://Taheri6760.github.io/SOP/)
-- [JS-Certificate](https://taheri6760.github.io/JS-Certification/certificate.pdf)
+# رضا حبیب زاده
+- [GitHub](https://github.com/rezahabibzadeh)
+- [PNU_3991_AR](https://github.com/rezahabibzadeh/PNU)
+- [Resume](https://rezahabibzadeh.github.io/rezume/) 
+- [SOP](https://rezahabibzadeh.github.io/sop/)
+- [JS-Certificate](https://github.com/rezahabibzadeh/js.git)
    
 <table style="width:100%" >
             <tr>
@@ -20,7 +20,7 @@
             </tr>
             <tr>
               <th></th>
-              <th style="background-color: dimgrey;">ترجمه مقاله</th>
+              <th style="background-color: dimgrey;">تعمیرات و طراحی</th>
               <th style="background-color: darkgray;">مطالعه دروس</th>
               <th style="background-color: darkorange;">امور منزل</th>
               <th style="background-color: darkgray;">سرکار</th>
@@ -31,9 +31,9 @@
             </tr>
              <tr>
                 <th></th>
-                <th style="background-color: dimgrey;">ترجمه مقاله</th>
+                <th style="background-color: dimgrey;">تعمیرات و طراحی</th>
                 <th style="background-color: darkgray;">مطالعه دروس</th>
-                <th style="background-color: darkorange;">امور منزل</th>
+                <th style="background-color: darkorange;">وب گردی</th>
                 <th style="background-color: darkgray;">سرکار</th>
                 <th style="background-color: darkcyan;">سرکار</th>
                 <th style="background-color: darkcyan;">سرکار</th>
@@ -43,7 +43,7 @@
              <tr>
                <th></th>
                 <th style="background-color: dimgrey;">مطالعه دروس</th>
-                <th style="background-color: darkgray;">کلاس دانشگاه</th>
+                <th style="background-color: darkgray;">وب کردی</th>
                 <th style="background-color: darkorange;">امور منزل</th>
                 <th style="background-color: darkgray;">سرکار</th>
                 <th style="background-color: darkcyan;">سرکار</th>
@@ -53,7 +53,7 @@
             </tr>
              <tr>
                  <th></th>
-                <th style="background-color: dimgrey;">ترجمه مقاله</th>
+                <th style="background-color: dimgrey;">تعمیرات و طراحی</th>
                 <th style="background-color: darkgray;">مطالعه دروس</th>
                 <th style="background-color: darkorange;">امور منزل</th>
                 <th style="background-color: darkgray;">سرکار</th>
@@ -64,7 +64,7 @@
             </tr>
              <tr>
                 <th></th>
-                <th style="background-color: dimgrey;">ترجمه مقاله</th>
+                <th style="background-color: dimgrey;">وب گردی</th>
                 <th style="background-color:red;">مطالعه دروس</th>
                 <th style="background-color: darkorange;">امور منزل</th>
                 <th style="background-color: darkgray;">سرکار</th>
@@ -75,7 +75,7 @@
             </tr>
              <tr>
                 <th></th>
-                <th style="background-color: dimgrey;">ترجمه مقاله</th>
+                <th style="background-color: dimgrey;">وب گردی</th>
                 <th style="background-color:red;">مطالعه دروس</th>
                 <th style="background-color: darkorange;">امور منزل</th>
                 <th style="background-color: darkgray;">امور منزل</th>
